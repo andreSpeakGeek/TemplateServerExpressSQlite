@@ -9,9 +9,10 @@ This was used as an illustration during a working on how to use dynamic content 
 
 ## Installation 
   1. Clone the repo
-  2. Node index.js
-  3. You can find your server at http://127.0.0.1:7777/ 
-  4. You can Get and PUT at http://127.0.0.1:7777/config 
+  2. npm install
+  3. Node index.js
+  4. You can find your server at http://127.0.0.1:7777/ 
+  5. You can Get and PUT at http://127.0.0.1:7777/config 
   
 ## TO NOTE
 
